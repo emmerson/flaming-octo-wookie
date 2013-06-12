@@ -1,13 +1,28 @@
-flaming-octo-wookie
-===================
+Project Flaming Octo Wookie
 
-00:01 - 12/06/2013
+============================
 
+Start: 12/06/2013 - 00:01
 
 A flaming octo wookie repository.
 
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
+abcdefghijklmnopqrstuvwxyz0123456789
 
-Emmerson abcdefghijklmnopqrstuvwxyz
-áéíóú
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
 
-ÇçÇ
+Emmerson
+falecom@emmersonbecker.com
